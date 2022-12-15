@@ -18,5 +18,8 @@
 	},
 	"extra": {
 		"class": "Frontpack\\ComposerAssetsPlugin\\ComposerAssetsPlugin"
+	},
+	"require-dev": {
+		"composer/composer": "^2.4"
 	}
 }
